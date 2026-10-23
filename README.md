@@ -5,18 +5,18 @@
 
 ## Selected Work
 
-### [Slip-Detecting Robot Gripper](https://github.com/yourusername/project-1)
-*A brief 1–2 sentence overview of the system, problem solved, or primary functionality.*
-* **Technologies:** Go, PostgreSQL, Redis, Docker
+### [Slip-Detecting Robot Gripper](https://github.com/SimonB111/spikeSound)
+* Spiking neural network (SNN) and custom audio amplifier to detect slippage in a robot gripper.*
+* **Technologies:** Python, PyTorch, C++, ESP32, LTspice, KiCad, Fusion 360
 
 ---
 
 ### [sEMG Gesture Detection](https://github.com/yourusername/project-2)
-*A brief 1–2 sentence overview of the system, problem solved, or primary functionality.*
-* **Technologies:** TypeScript, React, Node.js, AWS
+* Hand gesture detection using embedded ML and custom surface electromyography sensors.*
+* **Technologies:** C++, Python, ESP32, TensorFlow + Keras, KiCad
 
 ---
 
 ### [ENT Robot Nav](https://github.com/SimonB111/ENT-robot-nav)
-*Created ROS-integrated hand-eye calibration script and bone drilling trajectory generator.*
-* **Technologies:** ROS, Python, OpenCV, PyVista
+* ROS-integrated hand-eye calibration script and bone drilling trajectory generator.*
+* **Technologies:** ROS, Python, OpenCV
