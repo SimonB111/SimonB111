@@ -1,5 +1,4 @@
 # Simon Brown
-**Sophomore majoring in Electrical Engineering at Johns Hopkins University.** 
 
 
 
