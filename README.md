@@ -1,16 +1,22 @@
-## Hi there 👋
+# Simon Brown
+**EE @ JHU 29'** 
 
-<!--
-**SimonB111/SimonB111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Selected Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Slip-Detecting Robot Gripper](https://github.com/yourusername/project-1)
+*A brief 1–2 sentence overview of the system, problem solved, or primary functionality.*
+* **Technologies:** Go, PostgreSQL, Redis, Docker
+
+---
+
+### [sEMG Gesture Detection](https://github.com/yourusername/project-2)
+*A brief 1–2 sentence overview of the system, problem solved, or primary functionality.*
+* **Technologies:** TypeScript, React, Node.js, AWS
+
+---
+
+### [ENT Robot Nav](https://github.com/SimonB111/ENT-robot-nav)
+*Created ROS-integrated hand-eye calibration script and bone drilling trajectory generator.*
+* **Technologies:** ROS, Python, OpenCV, PyVista
