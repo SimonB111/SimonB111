@@ -4,7 +4,7 @@
 
 ## Selected Work
 
-### [Slip-Detecting Robot Gripper](https://github.com/SimonB111/spikeSound)
+### [Slip-Detecting Robot Gripper](https://github.com/SimonB111/portfolio/blob/main/spikeSound/README.md)
 * Spiking neural network (SNN) and custom audio amplifier to detect slippage in a robot gripper.
 * **Technologies:** Python, PyTorch, C++, ESP32, LTspice, KiCad, Fusion 360
 
