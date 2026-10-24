@@ -10,7 +10,7 @@
 
 
 
-### [sEMG Gesture Detection](https://github.com/yourusername/project-2)
+### [sEMG Gesture Detection](https://github.com/SimonB111/portfolio/blob/main/myoSensor/README.md)
 * Hand gesture detection using embedded ML and custom surface electromyography sensors.
 * **Technologies:** C++, Python, ESP32, TensorFlow + Keras, KiCad
 
