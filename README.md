@@ -1,8 +1,8 @@
 # Simon Brown
 
+### I'm a multidisciplinary learner and love challenges.
 
-
-## Selected Work
+## Projects:
 
 ### [Slip-Detecting Robot Gripper](https://github.com/SimonB111/portfolio/blob/main/spikeSound/README.md)
 * Spiking neural network (SNN) and custom audio amplifier to detect slippage in a robot gripper.
